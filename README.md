@@ -24,7 +24,7 @@ This project provides a comprehensive HR dashboard created in Tableau, designed 
   
 - **Mockups:** The initial dashboard mockup was created using the Procreate app on a tablet. Additionally, the dashboard container mockups were created using draw.io.
   
-- **Tableau Project File:** The project file created during the course can be found in the Zip file. You can also directly download the Tableau file from my [Tableau Public Profile](your-link-here).
+- **Tableau Project File:** The project file created during the course can be found in the Zip file. You can also directly download the Tableau file from my [Tableau Public Profile](https://public.tableau.com/views/HumanResourcesDashboard_17221913794180/HRDetails?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## HR Dashboard 🧑‍💼
 
