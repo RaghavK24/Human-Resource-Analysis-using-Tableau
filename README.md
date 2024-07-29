@@ -14,9 +14,9 @@ This project provides a comprehensive HR dashboard created in Tableau, designed 
   
 - **Tableau Project File:** The project file created during the course can be found in the Zip file. You can also directly download the Tableau file from my [Tableau Public Profile](your-link-here).
 
-## User Story - HR Dashboard
+## HR Dashboard
 
-**As an HR manager, I want a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis.**
+**This is a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis.**
 
 ### Summary View
 
