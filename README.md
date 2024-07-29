@@ -4,6 +4,17 @@
 
 This project provides a comprehensive HR dashboard created in Tableau, designed to visualize and analyze human resources data. The dashboard offers high-level insights and detailed employee records, aiding HR managers in making informed decisions.
 
+## Mockups and Tableau Images
+
+### Initial Mockup
+
+![Dashboard Mockup](path/to/mockup-image.png)
+
+### Tableau Dashboard
+
+![Tableau Dashboard](path/to/tableau-dashboard-image.png)
+
+
 ### Project Structure
 
 - **Project Data:** The dataset used in this HR Dashboard project is generated using a combination of ChatGPT prompts and the Python Faker library. It simulates a set of employee information typically found in HR systems, including demographics, job details, salary, performance evaluations, and attrition data.
