@@ -8,7 +8,7 @@ This project provides a comprehensive HR dashboard created in Tableau, designed 
 
 ### Initial Mockup
 
-![Dashboard Mockup](Icons & Images/Dashboard-1.png)
+![Dashboard Mockup](Human-Resource-Analysis-using-Tableau/Icons & Images/Dashboard-1.png)
 
 ### Tableau Dashboard
 
