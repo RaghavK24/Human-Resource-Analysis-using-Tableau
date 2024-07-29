@@ -8,11 +8,13 @@ This project provides a comprehensive HR dashboard created in Tableau, designed 
 
 ### Initial Mockup
 
-![Alt text](relative%20Icons & Images/Dashboard-1.png?raw=true)
+![Mockup-1](https://github.com/user-attachments/assets/93dac9b3-bcff-4270-be15-200b9360fd68)
+![Mockup-2](https://github.com/user-attachments/assets/cab8af3f-df82-4cfa-a099-363875e37b53)
 
 ### Tableau Dashboard
 
-![Tableau Dashboard](path/to/tableau-dashboard-image.png)
+![Dashboard-1](https://github.com/user-attachments/assets/0c05956f-f7d0-4610-88f8-21d1be732df8)
+![Dashboard-2](https://github.com/user-attachments/assets/8a9fe273-a75f-44b4-9f04-606391adfea0)
 
 
 ### Project Structure
