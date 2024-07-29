@@ -1,6 +1,6 @@
 # HR Dashboard Project 📊
 
-## Project Overview 📝
+## Project Overview 
 
 This project provides a comprehensive HR dashboard created in Tableau, designed to visualize and analyze human resources data. The dashboard offers high-level insights and detailed employee records, aiding HR managers in making informed decisions.
 
