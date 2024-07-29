@@ -1,23 +1,22 @@
-# HR Dashboard Project
+# HR Dashboard Project 📊
 
-## Project Overview
+## Project Overview 📝
 
 This project provides a comprehensive HR dashboard created in Tableau, designed to visualize and analyze human resources data. The dashboard offers high-level insights and detailed employee records, aiding HR managers in making informed decisions.
 
-## Mockups and Tableau Images
+## Mockups and Tableau Images 🎨
 
-### Initial Mockup
+### Initial Mockup 🖼️
 
 ![Mockup-1](https://github.com/user-attachments/assets/93dac9b3-bcff-4270-be15-200b9360fd68)
 ![Mockup-2](https://github.com/user-attachments/assets/cab8af3f-df82-4cfa-a099-363875e37b53)
 
-### Tableau Dashboard
+### Tableau Dashboard 📈
 
 ![Dashboard-1](https://github.com/user-attachments/assets/0c05956f-f7d0-4610-88f8-21d1be732df8)
 ![Dashboard-2](https://github.com/user-attachments/assets/8a9fe273-a75f-44b4-9f04-606391adfea0)
 
-
-### Project Structure
+## Project Structure 🗂️
 
 - **Project Data:** The dataset used in this HR Dashboard project is generated using a combination of ChatGPT prompts and the Python Faker library. It simulates a set of employee information typically found in HR systems, including demographics, job details, salary, performance evaluations, and attrition data.
   
@@ -27,15 +26,15 @@ This project provides a comprehensive HR dashboard created in Tableau, designed 
   
 - **Tableau Project File:** The project file created during the course can be found in the Zip file. You can also directly download the Tableau file from my [Tableau Public Profile](your-link-here).
 
-## HR Dashboard
+## HR Dashboard 🧑‍💼
 
 **This is a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis.**
 
-### Summary View
+### Summary View 📊
 
 The summary view is divided into three main sections: Overview, Demographics, and Income Analysis.
 
-#### Overview
+#### Overview 📜
 
 - Total number of hired employees, active employees, and terminated employees.
 - Visualization of hired and terminated employees over the years.
@@ -43,28 +42,28 @@ The summary view is divided into three main sections: Overview, Demographics, an
 - Comparison of employees between headquarters (HQ) and branches (New York is the HQ).
 - Distribution of employees by city and state.
 
-#### Demographics
+#### Demographics 👥
 
 - Gender ratio in the company.
 - Distribution of employees across age groups and education levels.
 - Total number of employees within each age group and education level.
 - Correlation between employees' educational backgrounds and their performance ratings.
 
-#### Income Analysis
+#### Income Analysis 💰
 
 - Salary comparison across different education levels for both genders.
 - Correlation between age and salary for employees in each department.
 
-### Employee Records View
+### Employee Records View 📋
 
 - Comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
 - Filterable list based on any of the available columns.
 
-## Data Generation
+## Data Generation 🛠️
 
 The dataset was generated using the following Python script, leveraging ChatGPT and the Faker library:
 
-### Chat-GPT Prompts
+### Chat-GPT Prompts 💻
 
 Generate python script to generate a realistic dataset of 8950 records for human resources. The dataset should include the following attributes:
    - Employee ID: A unique identifier.
@@ -84,7 +83,7 @@ Generate python script to generate a realistic dataset of 8950 records for human
    - Adjusted Salary: Calculated based on gender, education level, and age, applying specific multipliers and increments.
    - Be sure to structure the code cleanly, using functions where appropriate, and include comments to explain each step of the process.
 
-### Python Script
+### Python Script 🐍
 
 ```python
 import pandas as pd
